@@ -1,0 +1,339 @@
+* {
+    border: 0;
+    padding: 0;
+    outline: 0;
+}
+
+
+ul,
+ol {
+    list-style: none;
+}
+
+a {
+    text-decoration: none;
+    display: inline-block;
+}
+
+img {
+    vertical-align: middle;
+}
+
+.container {
+    margin: 0 auto;
+}
+
+/* common css part end */
+.header_top {
+    background-color: #f5f5f5;
+    height: 100px;
+    position: relative;
+}
+
+.logo {
+    position: absolute;
+    top: 34px;
+}
+
+.clock {
+    position: absolute;
+    left: 380px;
+    top: 40px;
+}
+
+.mail {
+    position: absolute;
+    left: 693px;
+    top: 37px;
+}
+
+.mobile {
+    position: absolute;
+    left: 931px;
+    top: 37px;
+}
+
+.mobile span {
+    display: block;
+}
+
+/* nav part start */
+.nav-left {
+    width: 990px;
+    float: left;
+    margin-left: -26px;
+    margin-bottom: -31px;
+}
+
+.nav-left .nav-item .nav-link:hover {
+    color: rgb(12, 144, 252);
+}
+
+.care-nav {
+    float: right;
+}
+
+
+
+.care-nav li {
+    float: left;
+}
+
+.care-nav li a {
+    padding-left: 15px;
+    padding-top: 0;
+    color: #000;
+}
+
+.care-nav li a:hover {
+    color: rgb(12, 144, 252);
+}
+
+
+/* banner part start */
+
+.banner_full {
+    background: URL('../image/banner-01.jpg');
+    height: 660px;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    position: relative;
+}
+
+
+.banner_text {
+    position: absolute;
+    top: 179px;
+    text-decoration: none;
+
+}
+
+.banner_text a {
+    text-decoration: none;
+}
+
+.banner_text span {
+    display: block;
+}
+
+.banner_info {
+    background: #0099ff;
+    padding: 20px;
+    color: #fff;
+    border-radius: 50px;
+    position: absolute;
+    left: 150px;
+
+
+}
+
+/* banner part end */
+/* service part start */
+.service_full {
+    background: #0099ff;
+    height: 340px;
+    position: relative;
+}
+
+.icon {
+    background-color: #f5f5f5;
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+    position: absolute;
+    top: 99px;
+    left: 166px;
+    transform: translate(-50%, -50%);
+    padding-top: 10px;
+}
+
+.icon_text {
+    position: absolute;
+    top: 154px;
+    left: 56px;
+}
+
+/* service part end */
+
+/* banner_choose_Full part start */
+.banner_choose_Full {
+    background-color: #b3b1b1;
+    height: 851px;
+    position: relative;
+}
+
+.banner_choose_pic {
+    background: url('../image/01.png');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 586px;
+    width: 309px;
+    position: absolute;
+    left: 500px;
+    top: 265px;
+}
+
+.left-part-1 {
+    margin-top: 250px;
+    margin-bottom: 300px;
+}
+
+.right-part-1 {
+    position: absolute;
+    left: 818px;
+    top: 419px;
+
+}
+
+.counter_up_bg {
+    background: url('../image/counterup-bg.jpg');
+    height: 595px;
+    position: relative;
+}
+
+.counterup_Text {
+    position: absolute;
+    top: 347px;
+}
+
+.counterup_Text2 {
+    position: absolute;
+    top: 344px;
+    left: 367px;
+}
+
+.counterup_Text3 {
+    position: absolute;
+    top: 344px;
+    left: 644px;
+}
+
+.counterup_Text4 {
+    position: absolute;
+    top: 344px;
+    left: 933px;
+}
+
+/* banner_choose_Full part end */
+/* work full */
+.work_full {
+    background-color: #fff;
+    height: 576px;
+    position: relative;
+}
+
+.workp2 {
+    margin-top: 146px;
+    margin-left: -29px;
+}
+
+
+
+.work-right {
+    position: absolute;
+    left: 899px;
+    top: -1px;
+}
+
+.work-right-p2 {
+    position: absolute;
+    left: 899px;
+    top: 233px;
+}
+
+.infoinfo {
+    position: absolute;
+    left: 599px;
+    top: 500px;
+}
+
+.g-text {
+    margin-top: 20px;
+    text-align: center;
+
+
+}
+
+.g-text span {
+    display: block;
+}
+
+.team-icon li {
+    float: left;
+}
+
+.team-icon li a {
+    color: #b9b0b0;
+    padding-left: 46px;
+    text-align: center;
+}
+
+.team-icon li a:hover {
+    color: #0099ff;
+}
+
+/* work full */
+.offer_full {
+    background-color: #e2e2e2;
+    height: 171px;
+    position: relative;
+}
+
+.footer_bg {
+    background-color: #000;
+    height: 598px;
+    position: relative;
+}
+
+.footer_text01 {
+    position: absolute;
+    top: 150px;
+}
+
+.footer_text01 li a {
+    color: #fff;
+    text-decoration: none;
+}
+
+.footer_social li {
+    float: left;
+}
+
+.footer_social {
+    position: absolute;
+    top: 300px;
+    left: 12px;
+
+}
+
+.footer_social li a {
+    padding-left: 12px;
+    color: #fff;
+}
+
+.footer_social li a:hover {
+    color: #0099ff;
+}
+
+.footer_part02 {
+    position: absolute;
+    top: 150px;
+}
+
+.footer_part02 li a {
+    color: #fff;
+    text-decoration: none;
+}
+
+.footer_part03 {
+    position: absolute;
+    top: 150px;
+
+}
+
+.footer_part03 li a {
+    color: #fff;
+    text-decoration: none;
+}

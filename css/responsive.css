@@ -1,0 +1,1247 @@
+@media (min-width:1200px) {}
+
+
+@media (min-width:992px) and (max-width:1199px) {
+    .header_top {
+        background-color: #f5f5f5;
+        height: 106px;
+        position: relative;
+    }
+
+    .clock {
+        position: absolute;
+        left: 270px;
+        top: 36px;
+    }
+
+    .mail {
+        position: absolute;
+        left: 488px;
+        top: 38px;
+    }
+
+    .mobile {
+        position: absolute;
+        left: 735px;
+        top: 39px;
+    }
+
+    .nav-left {
+        width: 990px;
+        float: left;
+        margin-left: -36px;
+        margin-bottom: -39px;
+    }
+
+    .navbar .nav-left .nav-item .nav-link {
+        text-align: center;
+        border: 1px solid #037abe;
+        border-radius: 50px;
+        margin-left: 20px;
+        margin-top: 30px;
+
+    }
+
+    .navbar .nav-left .nav-item .nav-link:hover {
+        background: #037abe;
+
+
+
+    }
+
+    .care-nav {
+        float: left;
+        margin-left: 761px;
+    }
+
+    .banner_full {
+        background: URL('../image/banner-01.jpg');
+        height: 521px;
+        position: relative;
+        width: 992px;
+    }
+
+    .banner_text {
+        position: absolute;
+        top: 179px;
+        text-decoration: none;
+        left: 67px;
+    }
+
+    .banner_info {
+        background: #0099ff;
+        padding: 20px;
+        color: #fff;
+        border-radius: 50px;
+        position: absolute;
+        left: 276px;
+    }
+
+   .service_full {
+       background: #0099ff;
+       height: 396px;
+       position: relative;
+   }
+
+    .icon {
+        background-color: #f5f5f5;
+        height: 50px;
+        width: 50px;
+        border-radius: 50%;
+        position: absolute;
+        top: 99px;
+        left: 148px;
+        transform: translate(-50%, -50%);
+        padding-top: 10px;
+    }
+
+    .icon_text {
+        position: absolute;
+        top: 154px;
+        left: 38px;
+    }
+
+    .icon01 {
+        background-color: #f5f5f5;
+        height: 50px;
+        width: 50px;
+        border-radius: 50%;
+        position: absolute;
+        top: 120px;
+        left: 137px;
+        transform: translate(-50%, -50%);
+        padding-top: 10px;
+    }
+
+    .icon_text01 {
+        position: absolute;
+        top: 155px;
+        left: 24px;
+    }
+
+    .icon02 {
+        background-color: #f5f5f5;
+        height: 50px;
+        width: 50px;
+        border-radius: 50%;
+        position: absolute;
+        top: 117px;
+        left: 133px;
+
+        padding-top: 10px;
+    }
+
+    .icon_text02 {
+        position: absolute;
+        top: 158px;
+        left: 22px;
+    }
+
+    .icon03 {
+        background-color: #f5f5f5;
+        height: 50px;
+        width: 50px;
+        border-radius: 50%;
+        position: absolute;
+        top: 123px;
+        left: 138px;
+        transform: translate(-50%, -50%);
+        padding-top: 10px;
+    }
+
+    .icon_text03 {
+        position: absolute;
+        top: 157px;
+        left: 31px;
+    }
+
+    .infoinfo {
+        position: absolute;
+        left: 336px;
+        top: 854px;
+    }
+
+    .banner_choose_Full {
+        background-color: #b3b1b1;
+        height: 891px;
+        position: relative;
+    }
+.banner_choose_pic {
+    background: url('../image/01.png');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 586px;
+    width: 309px;
+    position: absolute;
+    left: 137px;
+    top: 305px;
+    margin-left: 258px;
+}
+.right-part-1 {
+    position: absolute;
+    left: 661px;
+    top: 403px;
+}
+.counter_up_bg {
+    background: url('../image/counterup-bg.jpg');
+    height: 411px;
+    position: relative;
+}
+.counterup_Text {
+    position: absolute;
+    top: 135px;
+    left: 18px;
+    padding-top: 100px;
+    margin-top: 30px;
+}
+.counterup_Text2 {
+    position: absolute;
+    top: 178px;
+    left: 269px;
+}
+.counterup_Text3 {
+    position: absolute;
+    top: 176px;
+    left: 480px;
+}
+
+                   .counterup_Text4 {
+                       position: absolute;
+                       top: 178px;
+                       left: 735px;
+                   }
+
+    .work_full {
+        background-color: #fff;
+        height: 1033px;
+        position: relative;
+    }
+.work-right {
+    position: absolute;
+    left: 459px;
+    top: -1px;
+}
+
+.work-right-p2 {
+    position: absolute;
+    left: 459px;
+    top: 433px;
+}
+    .workp1 {
+        position: absolute;
+        left: 2%;
+        text-align: center;
+    }
+
+    .workp2 {
+        position: absolute;
+        top: 33%;
+        left: 7%;
+        text-align: center;
+    }
+
+.g-text {
+    margin-top: 23px;
+    text-align: center;
+    margin-left: -33px;
+}
+.igal img{
+ width:90%;
+}
+
+.drcart img{
+    width: 150px;
+}
+   
+
+   
+
+    .offer_full {
+        background-color: #e2e2e2;
+        height: 242px;
+        position: relative;
+        text-align: center;
+    }
+
+        .footer_bg {
+            background-color: #000;
+            height: 416px;
+            position: relative;
+        }
+   .form-ab {
+       position: absolute;
+       top: 4%;
+       text-align: center;
+       width: 255px;
+       left: 69%;
+   }
+
+
+.footer_part03 {
+    position: absolute;
+    top: 120px;
+    text-align: center;
+    left: 23%;
+}
+  .footer_social {
+      position: absolute;
+      top: 242px;
+      left: 30px;
+  }
+
+.footer_part02 {
+    position: absolute;
+    top: 121px;
+    left: 36%;
+}
+
+        .footer_text01 {
+            position: absolute;
+            top: 125px;
+            left: 41px;
+        }
+
+    .banner_choose_Full {
+        background-color: #b3b1b1;
+        height: 891px;
+        position: relative;
+    }
+
+    .banner_choose_pic {
+        background: url('../image/01.png');
+        background-size: cover;
+        background-position: center;
+        background-repeat: no-repeat;
+        height: 586px;
+        width: 309px;
+        position: absolute;
+        left: 137px;
+        top: 305px;
+        margin-left: 198px;
+    }
+
+   .right-part-1 {
+       position: absolute;
+       left: 19px;
+       top: 419px;
+       margin-left: 641px;
+   }
+
+    .counterup_Text {
+        position: absolute;
+        top: 47px;
+        left: -6px;
+    }
+}
+
+
+@media (min-width:768px) and (max-width:991px) {
+    .header_top {
+            background-color: #f5f5f5;
+            height: 160px;
+            position: relative;
+        }
+
+   .clock {
+       position: absolute;
+       left: 273px;
+       top: 41px;
+       width: 331px;
+   }
+.mail {
+    position: absolute;
+    left: 571px;
+    top: 40px;
+    width: 66px;
+}
+
+  .mobile {
+      position: absolute;
+      left: 46px;
+      top: 115px;
+  }
+
+    .nav-left {
+        width: 733px;
+        float: left;
+        margin-bottom: 127px;
+        text-align: center;
+    }
+
+    .navbar .nav-left .nav-item .nav-link {
+        text-align: center;
+        border: 1px solid #037abe;
+        border-radius: 50px;
+        margin-left: 20px;
+        margin-top: 30px;
+
+    }
+
+    .navbar .nav-left .nav-item .nav-link:hover {
+        background: #037abe;
+
+
+
+    }
+
+    .care-nav {
+        float: left;
+        margin-left: 267px;
+    }
+
+ .banner_full {
+     background: URL('../image/banner-01.jpg');
+     height: 521px;
+     width: 869px;
+     position: relative;
+ }
+        .banner_text {
+            position: absolute;
+            top: 179px;
+            text-decoration: none;
+            left: 24px;
+        }
+
+    .banner_info {
+        background: #0099ff;
+        padding: 20px;
+        color: #fff;
+        border-radius: 50px;
+        position: absolute;
+        left: 276px;
+    }
+
+ .service_full {
+     background: #0099ff;
+     height: 873px;
+     position: relative;
+ }
+    .icon {
+        background-color: #f5f5f5;
+        height: 50px;
+        width: 50px;
+        border-radius: 50%;
+        position: absolute;
+        top: 99px;
+        left: 368px;
+        transform: translate(-50%, -50%);
+        padding-top: 10px;
+    }
+
+    .icon_text {
+        position: absolute;
+        top: 154px;
+        left: 38px;
+    }
+
+    .icon01 {
+        background-color: #f5f5f5;
+        height: 50px;
+        width: 50px;
+        border-radius: 50%;
+        position: absolute;
+        top: 297px;
+        left: 369px;
+        transform: translate(-50%, -50%);
+        padding-top: 10px;
+    }
+
+    .icon_text01 {
+        position: absolute;
+        top: 327px;
+        left: 34px;
+    }
+
+    .icon02 {
+        background-color: #f5f5f5;
+        height: 50px;
+        width: 50px;
+        border-radius: 50%;
+        position: absolute;
+        top: 468px;
+        left: 376px;
+        transform: translate(-50%, -50%);
+        padding-top: 10px;
+    }
+
+    .icon_text02 {
+        position: absolute;
+        top: 507px;
+        left: 40px;
+    }
+
+    .icon03 {
+        background-color: #f5f5f5;
+        height: 50px;
+        width: 50px;
+        border-radius: 50%;
+        position: absolute;
+        top: 658px;
+        left: 378px;
+        transform: translate(-50%, -50%);
+        padding-top: 10px;
+    }
+
+    .icon_text03 {
+        position: absolute;
+        top: 695px;
+        left: 31px;
+    }
+
+    .infoinfo {
+        position: absolute;
+        left: 336px;
+        top: 854px;
+    }
+
+.banner_choose_pic {
+    background: url('../image/01.png');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 586px;
+    width: 309px;
+    position: absolute;
+    left: 137px;
+    top: 305px;
+    margin-left: 94px;
+}
+    .right-part-1 {
+        position: absolute;
+        left: 2px;
+        top: 634px;
+    }
+
+    .counterup_Text {
+        position: absolute;
+        top: 47px;
+    }
+
+    .counterup_Text2 {
+        position: absolute;
+        top: 188px;
+        left: -5px;
+    }
+
+    .counterup_Text3 {
+        position: absolute;
+        top: 346px;
+        left: 4px;
+    }
+
+    .counterup_Text4 {
+        position: absolute;
+        top: 465px;
+        left: 13px;
+    }
+
+    .work_full {
+        background-color: #fff;
+        height: 1033px;
+        position: relative;
+    }
+
+    .workp1 {
+        position: absolute;
+        left: 2%;
+        text-align: center;
+    }
+
+    .workp2 {
+        position: absolute;
+        top: 33%;
+        left: 7%;
+        text-align: center;
+    }
+
+ .g-text {
+     margin-top: 23px;
+     text-align: center;
+     margin-left: -20px;
+ }
+.igal {
+    float: left;
+    width: 280px;
+    padding-right: 337px;
+}
+    .team-icon {
+        margin-left: 20px;
+    }
+
+    .team-icon {
+        margin-left: 220px;
+    }
+
+    .offer_full {
+        background-color: #e2e2e2;
+        height: 242px;
+        position: relative;
+        text-align: center;
+    }
+
+    .footer_bg {
+        background-color: #000;
+        height: 1293px;
+        position: relative;
+    }
+
+    .form-ab {
+        position: absolute;
+        top: 63%;
+        text-align: center;
+        width: 500px;
+        left: 19%;
+    }
+
+
+    .footer_part03 {
+        position: absolute;
+        top: 373px;
+        text-align: center;
+        left: 39%;
+    }
+
+    .footer_social {
+        position: absolute;
+        top: 414px;
+        left: 283px;
+    }
+
+    .footer_part02 {
+        position: absolute;
+        top: 181px;
+        left: 41%;
+    }
+
+    .footer_text01 {
+        position: absolute;
+        top: 143px;
+        left: 290px;
+    }
+
+    .banner_choose_Full {
+        background-color: #b3b1b1;
+        height: 891px;
+        position: relative;
+    }
+
+    .banner_choose_pic {
+        background: url('../image/01.png');
+        background-size: cover;
+        background-position: center;
+        background-repeat: no-repeat;
+        height: 586px;
+        width: 309px;
+        position: absolute;
+        left: 137px;
+        top: 305px;
+    }
+
+    .right-part-1 {
+        position: absolute;
+        left: 19px;
+        top: 673px;
+    }
+
+    .counterup_Text {
+        position: absolute;
+        top: 47px;
+        left: -6px;
+    }
+
+}
+
+@media (min-width:576px) and (max-width:767px) {
+    .header_top {
+        background-color: #f5f5f5;
+        height: 215px;
+        position: relative;
+    }
+
+    .clock {
+        position: absolute;
+        left: 4px;
+        top: 94px;
+    }
+
+    .mail {
+        position: absolute;
+        left: 7px;
+        top: 126px;
+    }
+
+    .mobile {
+        position: absolute;
+        left: 8px;
+        top: 163px;
+    }
+
+    .nav-left {
+        width: 548px;
+        float: left;
+        margin-bottom: 127px;
+        text-align: center;
+    }
+
+    .navbar .nav-left .nav-item .nav-link {
+        text-align: center;
+        border: 1px solid #037abe;
+        border-radius: 50px;
+
+    }
+
+    .navbar .nav-left .nav-item .nav-link:hover {
+        background: #037abe;
+
+
+
+    }
+
+    .care-nav {
+        float: left;
+        /* margin: 0 auto; */
+        /* text-align: center; */
+    }
+
+    .banner_full {
+        background: URL('../image/banner-01.jpg');
+        height: 521px;
+        width: 575px;
+        position: relative;
+    }
+
+    .banner_text {
+        position: absolute;
+        top: 179px;
+        text-decoration: none;
+        left: 36px;
+    }
+
+    .banner_info {
+        background: #0099ff;
+        padding: 20px;
+        color: #fff;
+        border-radius: 50px;
+        position: absolute;
+        left: 185px;
+    }
+
+    .service_full {
+        background: #0099ff;
+        height: 940px;
+        position: relative;
+    }
+
+    .icon {
+        background-color: #f5f5f5;
+        height: 50px;
+        width: 50px;
+        border-radius: 50%;
+        position: absolute;
+        top: 99px;
+        left: 270px;
+        transform: translate(-50%, -50%);
+        padding-top: 10px;
+    }
+
+    .icon_text {
+        position: absolute;
+        top: 154px;
+        left: 38px;
+    }
+
+    .icon01 {
+        background-color: #f5f5f5;
+        height: 50px;
+        width: 50px;
+        border-radius: 50%;
+        position: absolute;
+        top: 297px;
+        left: 270px;
+        transform: translate(-50%, -50%);
+        padding-top: 10px;
+    }
+
+    .icon_text01 {
+        position: absolute;
+        top: 327px;
+        left: 34px;
+    }
+
+    .icon02 {
+        background-color: #f5f5f5;
+        height: 50px;
+        width: 50px;
+        border-radius: 50%;
+        position: absolute;
+        top: 468px;
+        left: 278px;
+        transform: translate(-50%, -50%);
+        padding-top: 10px;
+    }
+
+    .icon_text02 {
+        position: absolute;
+        top: 507px;
+        left: 40px;
+    }
+
+    .icon03 {
+        background-color: #f5f5f5;
+        height: 50px;
+        width: 50px;
+        border-radius: 50%;
+        position: absolute;
+        top: 658px;
+        left: 270px;
+        transform: translate(-50%, -50%);
+        padding-top: 10px;
+    }
+
+    .icon_text03 {
+        position: absolute;
+        top: 695px;
+        left: 31px;
+    }
+
+    .banner_choose_pic {
+        background: url('../image/01.png');
+        background-size: cover;
+        background-position: center;
+        background-repeat: no-repeat;
+        height: 586px;
+        width: 309px;
+        position: absolute;
+        left: 163px;
+        top: 265px;
+    }
+
+    .right-part-1 {
+        position: absolute;
+        left: 2px;
+        top: 634px;
+    }
+
+    .counterup_Text {
+        position: absolute;
+        top: 47px;
+    }
+
+    .counterup_Text2 {
+        position: absolute;
+        top: 188px;
+        left: -5px;
+    }
+
+    .counterup_Text3 {
+        position: absolute;
+        top: 346px;
+        left: 4px;
+    }
+
+    .counterup_Text4 {
+        position: absolute;
+        top: 465px;
+        left: 13px;
+    }
+
+    .work_full {
+        background-color: #fff;
+        height: 1033px;
+        position: relative;
+    }
+
+    .workp1 {
+        position: absolute;
+        left: 2%;
+        text-align: center;
+    }
+
+    .workp2 {
+        position: absolute;
+        top: 33%;
+        left: 7%;
+        text-align: center;
+    }
+
+    .g-text {
+        margin-top: 23px;
+        text-align: center;
+        margin-left: 20px;
+    }
+
+    .team-icon {
+        margin-left: 20px;
+    }
+
+    .team-icon {
+        margin-left: 141px;
+    }
+
+    .offer_full {
+        background-color: #e2e2e2;
+        height: 242px;
+        position: relative;
+        text-align: center;
+    }
+
+    .footer_bg {
+        background-color: #000;
+        height: 1293px;
+        position: relative;
+    }
+
+    .form-ab {
+        position: absolute;
+        top: 50%;
+    }
+
+    .form-ab {
+        position: absolute;
+        top: 54%;
+        text-align: center;
+    }
+
+    .footer_part03 {
+        position: absolute;
+        top: 373px;
+        text-align: center;
+        left: 39%;
+    }
+
+    .footer_social {
+        position: absolute;
+        top: 414px;
+        left: 215px;
+    }
+
+    .footer_part02 {
+        position: absolute;
+        top: 181px;
+        left: 41%;
+    }
+
+    .footer_text01 {
+        position: absolute;
+        top: 143px;
+        left: 227px;
+    }
+
+    .banner_choose_Full {
+        background-color: #b3b1b1;
+        height: 891px;
+        position: relative;
+    }
+
+    .banner_choose_pic {
+        background: url('../image/01.png');
+        background-size: cover;
+        background-position: center;
+        background-repeat: no-repeat;
+        height: 586px;
+        width: 309px;
+        position: absolute;
+        left: 137px;
+        top: 305px;
+    }
+
+    .right-part-1 {
+        position: absolute;
+        left: 19px;
+        top: 673px;
+    }
+
+    .counterup_Text {
+        position: absolute;
+        top: 47px;
+        left: -6px;
+    }
+}
+
+
+
+
+
+
+
+
+
+@media (max-width:575px) {
+    .header_top {
+        background-color: #f5f5f5;
+        height: 215px;
+        position: relative;
+    }
+
+    .clock {
+        position: absolute;
+        left: 4px;
+        top: 94px;
+    }
+
+    .mail {
+        position: absolute;
+        left: 7px;
+        top: 126px;
+    }
+
+    .mobile {
+        position: absolute;
+        left: 8px;
+        top: 163px;
+    }
+
+.nav-left {
+    width: 303px;
+    float: left;
+    margin-bottom: 127px;
+    text-align: center;
+    margin-left: 5px;
+}
+    .navbar .nav-left .nav-item .nav-link {
+        text-align: center;
+        border: 1px solid #037abe;
+        border-radius: 50px;
+
+    }
+
+    .navbar .nav-left .nav-item .nav-link:hover {
+        background: #037abe;
+
+
+
+    }
+
+    .care-nav {
+        float: left;
+        /* margin: 0 auto; */
+        /* text-align: center; */
+    }
+
+    .banner_full {
+        background: URL('../image/banner-01.jpg');
+        height: 521px;
+        width: 575px;
+        position: relative;
+    }
+.banner_text {
+    position: absolute;
+    top: 26px;
+    text-decoration: none;
+    left: 0px;
+    width: 348px;
+}
+
+.banner_text span{
+display: inline-block;
+}
+.banner_info {
+    background: #0099ff;
+    padding: 20px;
+    color: #fff;
+    border-radius: 50px;
+    position: absolute;
+    left: 110px;
+}
+    .service_full {
+        background: #0099ff;
+        height: 940px;
+        position: relative;
+    }
+
+        .icon {
+            background-color: #f5f5f5;
+            height: 50px;
+            width: 50px;
+            border-radius: 50%;
+            position: absolute;
+            top: 99px;
+            left: 202px;
+            transform: translate(-50%, -50%);
+            padding-top: 10px;
+        }
+
+    .icon_text {
+        position: absolute;
+        top: 154px;
+        left: 56px;
+    }
+
+   .icon01 {
+       background-color: #f5f5f5;
+       height: 50px;
+       width: 50px;
+       border-radius: 50%;
+       position: absolute;
+       top: 297px;
+       left: 204px;
+       transform: translate(-50%, -50%);
+       padding-top: 10px;
+   }
+    .icon_text01 {
+        position: absolute;
+        top: 327px;
+        left: 34px;
+    }
+
+ .icon02 {
+     background-color: #f5f5f5;
+     height: 50px;
+     width: 50px;
+     border-radius: 50%;
+     position: absolute;
+     top: 468px;
+     left: 204px;
+     transform: translate(-50%, -50%);
+     padding-top: 10px;
+ }
+    .icon_text02 {
+        position: absolute;
+        top: 507px;
+        left: 40px;
+    }
+
+   .icon03 {
+       background-color: #f5f5f5;
+       height: 50px;
+       width: 50px;
+       border-radius: 50%;
+       position: absolute;
+       top: 658px;
+       left: 195px;
+       transform: translate(-50%, -50%);
+       padding-top: 10px;
+   }
+
+    .icon_text03 {
+        position: absolute;
+        top: 695px;
+        left: 31px;
+    }
+
+    .banner_choose_pic {
+        background: url('../image/01.png');
+        background-size: cover;
+        background-position: center;
+        background-repeat: no-repeat;
+        height: 586px;
+        width: 309px;
+        position: absolute;
+        left: 163px;
+        top: 265px;
+    }
+        .left-part-1 {
+            margin-top: 63px;
+            margin-bottom: 300px;
+        }
+.right-part-1 {
+    position: absolute;
+    left: 2px;
+    top: 569px;
+}
+
+    .counterup_Text {
+        position: absolute;
+        top: 47px;
+    }
+
+    .counterup_Text2 {
+        position: absolute;
+        top: 188px;
+        left: -5px;
+    }
+
+    .counterup_Text3 {
+        position: absolute;
+        top: 346px;
+        left: 4px;
+    }
+
+    .counterup_Text4 {
+        position: absolute;
+        top: 465px;
+        left: 13px;
+    }
+
+    .work_full {
+        background-color: #fff;
+        height: 1033px;
+        position: relative;
+    }
+.workp1 {
+    position: absolute;
+    left: -1%;
+    text-align: center;
+}
+
+   .workp2 {
+       position: absolute;
+       top: 42%;
+       left: 7%;
+       text-align: center;
+   }
+ .igal {
+     margin-left: -7px;
+ }
+
+    .g-text {
+        margin-top: 23px;
+        text-align: center;
+        margin-left: 20px;
+    }
+
+   .team-icon {
+       margin-left: 52px;
+   }
+   
+
+        .offer_full {
+            background-color: #e2e2e2;
+            height: 267px;
+            position: relative;
+            text-align: center;
+        }
+
+  .footer_bg {
+      background-color: #000;
+      height: 1223px;
+      position: relative;
+  }
+
+  .form-ab {
+      position: absolute;
+      top: 52%;
+      text-align: center;
+  }
+    .form-ab {
+        position: absolute;
+        top: 54%;
+        text-align: center;
+    }
+
+        .footer_part03 {
+            position: absolute;
+            top: 373px;
+            text-align: center;
+            left: 28%;
+        }
+
+        .footer_social {
+            position: absolute;
+            top: 391px;
+            left: 102px;
+        }
+
+   .footer_part02 {
+       position: absolute;
+       top: 181px;
+       left: 41%;
+   }
+
+ .footer_text01 {
+     position: absolute;
+     top: 143px;
+     left: 108px;
+ }
+}
